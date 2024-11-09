@@ -162,3 +162,4 @@ cython_debug/
 .idea/
 openai_test.py
 openai_test2.py
+knowledge_base.md
