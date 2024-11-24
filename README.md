@@ -1,1 +1,1 @@
-# ieah2report2024
+pip install -r requirements.txt
